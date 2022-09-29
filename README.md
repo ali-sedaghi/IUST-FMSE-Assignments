@@ -1,4 +1,4 @@
-# IUST-DL-Assignments
+# IUST-FSME-Assignments
 My solutions to IUST's Formal Methods in Software Engineering assignments, Spring 2022, [Dr. Azgomi](https://scholar.google.com/citations?user=OcWAFjcAAAAJ&hl=en)
 
 
